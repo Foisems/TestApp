@@ -1,0 +1,11 @@
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\bin\Debug\WindowsFormsAppTestGit.exe.config
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\bin\Debug\WindowsFormsAppTestGit.exe
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\bin\Debug\WindowsFormsAppTestGit.pdb
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.csproj.AssemblyReference.cache
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.Form1.resources
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.Properties.Resources.resources
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.csproj.GenerateResource.cache
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.csproj.CoreCompileInputs.cache
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.exe
+D:\Visual Studio Prog\C#\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.pdb
